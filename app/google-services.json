@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "625389670459",
+    "firebase_url": "https://exfinal-josuepacherres-default-rtdb.firebaseio.com",
+    "project_id": "exfinal-josuepacherres",
+    "storage_bucket": "exfinal-josuepacherres.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625389670459:android:1ac1d62b1ce7cd5cea8c1e",
+        "android_client_info": {
+          "package_name": "com.exfinal.exfinal_josuepacherres"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625389670459-uu018kfjv6nn75dublkt1vhdg32gm47n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDza-wVNgNVjzUAJsoN5x_-tXy5vuLwL9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625389670459-uu018kfjv6nn75dublkt1vhdg32gm47n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
